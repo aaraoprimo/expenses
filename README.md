@@ -1,8 +1,8 @@
+# APP Despesas pessoais
+
+Projeto de estudo da COD3R, Professor Leandro Moura Leitão.
+
 ![expenses](https://github.com/aaraoprimo/expenses/blob/master/expenses.jpg)
-
-# expenses
-
-A new Flutter project.
 
 ## Getting Started
 

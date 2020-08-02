@@ -1,3 +1,5 @@
+![expenses](https://github.com/aaraoprimo/expenses/blob/master/expenses.jpg)
+
 # expenses
 
 A new Flutter project.
